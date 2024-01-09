@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2020-12-24T10:50:22.000Z",
+      "notes": "Ancient and marvellous city",
+      "position": {
+        "lat": "41.90074384269173",
+        "lng": "12.484588623046877"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Bern",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2021-01-12T10:51:43.000Z",
+      "notes": "Modern and attractive city",
+      "position": {
+        "lat": "46.95026224218562",
+        "lng": "7.448730468750001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2021-07-07T09:55:47.000Z",
+      "notes": "",
+      "position": {
+        "lat": "48.122101028190805",
+        "lng": "11.5576171875"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Salerno",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2021-03-19T10:57:08.000Z",
+      "notes": "Beautiful sightseeing",
+      "position": {
+        "lat": "40.66813955408042",
+        "lng": "14.754638671875002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Oslo",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2022-10-07T10:00:44.000Z",
+      "notes": "Wonderful experience ",
+      "position": {
+        "lat": "59.94400716933027",
+        "lng": "10.78857421875"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-07T10:02:44.000Z",
+      "notes": "Dynamic capital captivates with its rich history",
+      "position": {
+        "lat": "40.41767833585549",
+        "lng": "-3.7078857421875004"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-29T10:03:56.000Z",
+      "notes": "Charms with its medieval architecture",
+      "position": {
+        "lat": "48.84302835299519",
+        "lng": "2.3730468750000004"
+      },
+      "id": 8
+    }
+  ]
+}
