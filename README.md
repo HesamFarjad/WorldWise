@@ -18,6 +18,11 @@ WorldWise is not just a travel companion; it's a dynamic, real-time journey thro
 🚀 Ready to Take Off? Start Tracking Now!
 Embark on a journey with WorldWise - a real-world SPA that combines the best of technology and wanderlust. Connect with me to explore new possibilities, share experiences, and code the next chapter of your travel adventure! 🌐✈️ #WebDevelopment #TravelTech #ReactJS #WorldWiseSPA
 
+You can find its source on my [YouTube]. (https://youtu.be/MVH2QFrXqvI)
+
+You can find its source on my [LinkedIn]. (https://www.linkedin.com/in/hesamfarjad)
+
+
 <img width="1440" alt="Screenshot 2024-01-09 at 09 01 42" src="https://github.com/HesamFarjad/WorldWise/assets/81914229/430c0fd8-2357-4606-b2c0-22f4dd202abe">
 <img width="1440" alt="Screenshot 2024-01-09 at 09 01 51" src="https://github.com/HesamFarjad/WorldWise/assets/81914229/2645399a-53ab-47e0-a818-70f86d4d78ae">
 <img width="1440" alt="Screenshot 2024-01-09 at 09 01 57" src="https://github.com/HesamFarjad/WorldWise/assets/81914229/13654703-5f3d-4b45-9e8b-eec10d557d65">
